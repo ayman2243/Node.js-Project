@@ -1,0 +1,9 @@
+{
+    "env": {
+    "name": "production"
+    },
+    "apiServer": {
+    "metadata": "https://mighty-citadel-50580.herokuapp.com/api",
+    "rules": "https://mighty-citadel-50580.herokuapp.com/api/rules"
+    }
+}
