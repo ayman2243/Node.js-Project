@@ -1,17 +1,17 @@
 {
     "test": {
         "PORT": 2000,
-        "MONGODB_URI": "mongodb://localhost:27017/Mawso3ahTest",
-        "JWT_SECRET": "7XJ@EK<=xmBkf(Jf"
+        "MONGODB_URI": "Removed By Ayman Aljohary",
+        "JWT_SECRET": "Removed By Ayman Aljohary"
     },
     "development": {
         "PORT": 3000,
-        "MONGODB_URI": "mongodb://localhost:27017/Mawso3ah",
-        "JWT_SECRET": "7XJ@EK<=xmBkf(Jf"
+        "MONGODB_URI": "Removed By Ayman Aljohary",
+        "JWT_SECRET": "Removed By Ayman Aljohary"
     },
     "production":{
-        "MONGODB_URI": "mongodb://ayman:ayman11@ds143511.mlab.com:43511/benaagroup",
-        "JWT_SECRET": "7XJ@EK<=xmBkf(Jf"
+        "MONGODB_URI": "Removed By Ayman Aljohary",
+        "JWT_SECRET": "Removed By Ayman Aljohary"
     } 
 }
   
